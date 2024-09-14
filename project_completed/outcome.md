@@ -1,14 +1,15 @@
 # PROJECT COMPLETED SUCCESSFULLY
-![Dotnet_Monitoring_Pipeline](./images/image1.PNG)
+
+![Dotnet_Monitoring_Pipeline](./image1.PNG)
 
 
 
-![Quality_Gate](./images/image2.PNG)
+![Quality_Gate](./image2.PNG)
 
 
 
-![Image_In_Dockerhub](./images/image3.PNG)
+![Image_In_Dockerhub](./image3.PNG)
 
 
 
-![Dotnet_Monitoring_App](./images/image4.PNG)
+![Dotnet_Monitoring_App](./image4.PNG)
